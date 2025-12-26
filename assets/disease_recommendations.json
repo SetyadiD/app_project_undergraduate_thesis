@@ -1,0 +1,40 @@
+{
+    "recommendations": {
+      "sehat": {
+        "status_color": "green",
+        "recommendation": "Tanaman cabai Anda dalam kondisi sehat. Pertahankan perawatan yang baik."
+      },
+      "bercak-daun": {
+        "status_color": "red", 
+        "recommendation": "Pengendalian: \n- Jaga kebersihan lingkungan tanaman\n- Semprotkan fungisida seperti topsin, velimek, dan benlate secara berselang-seling."
+      },
+      "busuk-buah": {
+        "status_color": "red",
+        "recommendation": "Pengendalian: \n- Segera buang buah yang terinfeksi\n- Semprot fungisida sistemik\n- Kurangi kelembaban\n- Perbaiki PH air."
+      },
+      "hama-kutu-daun": {
+        "status_color": "orange",
+        "recommendation": "Pengendalian secara kimiawi: \n- Lakukan penyemprotan tanaman dengan menggunakan jenis insektisida yang mengandung diafenthiuron atau fipronil, penyemprotan sebaiknya dilakukan pada sore hari."
+      },
+      "hama-lalat-buah": {
+        "status_color": "orange", 
+        "recommendation": "Pengendalian secara mekanis: \n- Musnahkan buah cabai yang terserang lalat buah.\n Pengendalian secara kimiawi: \n- Pemasangan perangkap beracun (metil eugenol) atau protein hidrosalit."
+      },
+      "hama-thrips": {
+        "status_color": "orange",
+        "recommendation": "Pengendalian secara kimiawi: \n- Semprotkan tanaman dengan insektisida yang mempunyai kandungan bahan aktif endosulfat, asetat, dimetoat, karbaril, formothion, dan metomil."
+      },
+      "hama-ulat": {
+        "status_color": "orange",
+        "recommendation": "Pengedalian secara mekanis: \n- Mengumpulkan telur beserta ulatnya dan langsung dibasmi\n Pengendalian secara kimiawi: \n- Semprot tanaman dengan insektisida yang mempunyai bahan aktif Bacilus thuringiensis"
+      },
+      "layu": {
+        "status_color": "red",
+        "recommendation": "Pengendalian: \n- Segera cabut tanaman yang terinfeksi\n- Sterilkan dengan fungisida\n- Gunakan varietas tahan layu\n- Berikan bakterisida jenis Pseudomonas fluorescens."
+      },
+      "virus-kuning": {
+        "status_color": "red", 
+        "recommendation": "Pengendalian: \n- Cegah serangan vektor (kutu daun)\n- Gunakan bibit bebas virus\n- Jaga kebersihan lingkungan tanaman\n- Semprotkan pupuk daun."
+      }
+    }
+  }
