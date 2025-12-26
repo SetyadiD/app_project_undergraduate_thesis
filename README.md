@@ -1,4 +1,4 @@
-# home_page
+# APLIKASI DETEKSI PENYAKIT DAN HAMA PADA TANAMAN CABAI HIDROPONIK
 
 A new Flutter project.
 
